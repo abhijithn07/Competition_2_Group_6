@@ -1,6 +1,6 @@
 using System;
 
-namespace OOPs.LibraryManagement
+namespace USF_Library_Management
 {
     public class Book
     {
